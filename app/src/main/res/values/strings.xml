@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">LanguageLocalization</string>
+    <string name="languageLocalization">This is a Localization Project</string>
+</resources>
